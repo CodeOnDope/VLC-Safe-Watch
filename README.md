@@ -126,8 +126,19 @@ cd vlc-safe-watch
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-[View Full Changelog](CHANGELOG.md)
+📋 Changelog
+v2.5.11 (Latest)
 
+✅ Fixed extension reopening issues
+✅ Improved dialog management
+✅ Enhanced cleanup processes
+✅ Better error handling
+
+v2.5.10
+
+✅ Added HTML font colors for step indicators
+✅ Improved UI visual feedback
+✅ Enhanced status updates
 ## 🤝 Support
 
 ### Getting Help
